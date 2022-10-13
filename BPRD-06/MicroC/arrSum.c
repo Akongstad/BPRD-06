@@ -3,6 +3,7 @@ int arr[4];
 void main()
 {
     int sump;
+    sump = 0;
     //fill a
     arr[0] = 7;
     arr[1] = 13;
