@@ -12,6 +12,7 @@ void main()
     arrsum(4, arr, &sump);
     print sump;
 }
+
 void arrsum(int n, int arr[], int *sump)
 {
     int i;
