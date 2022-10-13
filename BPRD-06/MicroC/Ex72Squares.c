@@ -31,9 +31,7 @@ void main(int n) {
     
     
     int sump;
+    sump = 0;
     arrsum(n, arr, &sump);//call arrsum from exercise 7.2.1
     print sump;
-    
-    
-    
 }
