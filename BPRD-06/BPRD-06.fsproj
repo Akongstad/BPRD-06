@@ -1,0 +1,104 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>BPRD_06</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Program.fs" />
+        <Content Include="MicroC\obj\fsac.cache" />
+        <Content Include="MicroC\ex6.out" />
+        <ClCompile Include="MicroC\ex13.c" />
+        <ClCompile Include="MicroC\ex19.c" />
+        <Content Include="MicroC\ex25.out" />
+        <Content Include="MicroC\ex19.out" />
+        <Content Include="MicroC\prog1" />
+        <Content Include="MicroC\ex5.out" />
+        <Content Include="MicroC\tailEx.out" />
+        <Content Include="MicroC\ex26.out" />
+        <Compile Include="MicroC\Contcomp.fs" />
+        <Content Include="MicroC\prog0" />
+        <Content Include="MicroC\ex4.out" />
+        <ClCompile Include="MicroC\ex17.c" />
+        <ClCompile Include="MicroC\ex4.c" />
+        <Content Include="MicroC\FSharp.Core.dll" />
+        <ClCompile Include="MicroC\ex22.c" />
+        <Compile Include="MicroC\Comp.fs" />
+        <Content Include="MicroC\ex23.out" />
+        <ClCompile Include="MicroC\wrapUpEx01.c" />
+        <Content Include="MicroC\ex22.out" />
+        <Content Include="MicroC\ex1.out" />
+        <Content Include="MicroC\bar" />
+        <Content Include="MicroC\ex3.out" />
+        <Content Include="MicroC\ex21.out" />
+        <ClCompile Include="MicroC\ex26.c" />
+        <Content Include="MicroC\ex2.out" />
+        <Content Include="MicroC\README.TXT" />
+        <ClCompile Include="MicroC\ex10.c" />
+        <Compile Include="MicroC\CPar.fs" />
+        <Content Include="MicroC\CLex.fsl" />
+        <ClCompile Include="MicroC\tailEx.c" />
+        <ClCompile Include="MicroC\ex14.c" />
+        <Content Include="MicroC\machine" />
+        <ClCompile Include="MicroC\machine.c" />
+        <Content Include="MicroC\CPar.fsy" />
+        <ClCompile Include="MicroC\testing.c" />
+        <ClCompile Include="MicroC\ex7.c" />
+        <Content Include="MicroC\a.out" />
+        <ClCompile Include="MicroC\ex21.c" />
+        <ClCompile Include="MicroC\ex9.c" />
+        <ClCompile Include="MicroC\ex25.c" />
+        <ClCompile Include="MicroC\ex3.c" />
+        <Content Include="MicroC\wrapUpEx01.out" />
+        <Content Include="MicroC\ex12notailcall.out" />
+        <ClCompile Include="MicroC\ex11.c" />
+        <Compile Include="MicroC\CLex.fs" />
+        <ClCompile Include="MicroC\ex15.c" />
+        <Content Include="MicroC\wrapUpEx01.exe" />
+        <Compile Include="MicroC\ParseAndComp.fs" />
+        <ClCompile Include="MicroC\ex20.c" />
+        <Compile Include="MicroC\MicroCC.fs" />
+        <ClCompile Include="MicroC\ex6.c" />
+        <ClCompile Include="MicroC\ex2.c" />
+        <Compile Include="MicroC\Machine.fs" />
+        <ClCompile Include="MicroC\ex24.c" />
+        <Content Include="MicroC\ex12tailcall.out" />
+        <ClCompile Include="MicroC\ex8.c" />
+        <ClCompile Include="MicroC\ex18.c" />
+        <Content Include="MicroC\out" />
+        <ClCompile Include="MicroC\ex12.c" />
+        <Content Include="MicroC\ex10.out" />
+        <Content Include="MicroC\ex11.out" />
+        <Content Include="MicroC\Machinetrace.class" />
+        <Content Include="MicroC\ex25.code" />
+        <Content Include="MicroC\Machine.java" />
+        <Compile Include="MicroC\ParseAndRun.fs" />
+        <Content Include="MicroC\ex13.out" />
+        <Content Include="MicroC\tailEx2.out" />
+        <Content Include="MicroC\ex12.out" />
+        <ClCompile Include="MicroC\ex16.c" />
+        <Compile Include="MicroC\Absyn.fs" />
+        <Content Include="MicroC\grammar.txt" />
+        <Content Include="MicroC\CPar.exe" />
+        <ClCompile Include="MicroC\ex23.c" />
+        <Content Include="MicroC\ex9.out" />
+        <Compile Include="MicroC\ParseAndContcomp.fs" />
+        <ClCompile Include="MicroC\ex5.c" />
+        <Content Include="MicroC\ex8.out" />
+        <Compile Include="MicroC\CPar.fsi" />
+        <Compile Include="MicroC\Parse.fs" />
+        <Content Include="MicroC\Machine.class" />
+        <Compile Include="MicroC\Interp.fs" />
+        <Content Include="MicroC\microcc.exe" />
+        <ClCompile Include="MicroC\ex1.c" />
+        <Compile Include="Imp\Parameters.cs" />
+        <Content Include="Imp\README.TXT" />
+        <Compile Include="Imp\Naive.fs" />
+        <Content Include="Imp\a.out" />
+        <Content Include="Imp\Parameters.exe" />
+        <ClCompile Include="Imp\array.c" />
+    </ItemGroup>
+
+</Project>
