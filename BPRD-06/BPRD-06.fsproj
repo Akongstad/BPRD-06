@@ -60,6 +60,7 @@
         <Compile Include="MicroC\Parse.fs" />
         <Compile Include="MicroC\Interp.fs" />
         <ClCompile Include="MicroC\ex1.c" />
+        <ClCompile Include="MicroC\Ex72Squares.c" />
     </ItemGroup>
 
 </Project>
