@@ -65,6 +65,7 @@
         <Content Include="MicroC\FsLexYacc.Runtime.dll" />
         <ClCompile Include="MicroC\arrSum.c" />
         <ClCompile Include="MicroC\histogram.c" />
+        <ClCompile Include="MicroC\Ex72Squares2.c" />
     </ItemGroup>
 
 </Project>
