@@ -67,6 +67,7 @@
         <ClCompile Include="MicroC\arrSum2.c" />
         <ClCompile Include="MicroC\histogram.c" />
         <ClCompile Include="MicroC\Ex72Squares2.c" />
+        <ClCompile Include="MicroC\histogram2.c" />
     </ItemGroup>
 
 </Project>
